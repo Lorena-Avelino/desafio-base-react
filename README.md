@@ -34,7 +34,7 @@ Nesse projeto foi executado dois desafios utilizando React:
 <br>
 
 ---
-<!-- [Visite o projeto online](https://lorena-avelino.github.io/projeto-gitHub-api/) -->
+[Visite o projeto online](https://desafio-base-react.vercel.app/)
 
 <br>
 
